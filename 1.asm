@@ -1,0 +1,8 @@
+LXI H, 9030H
+MVI M, 34H
+MVI B, 92H
+
+MOV A, B
+ANA M
+
+HLT

@@ -1,0 +1,9 @@
+LXI H,8082H
+
+LDA 8081H
+
+CMP M
+
+SUB M
+
+HLT

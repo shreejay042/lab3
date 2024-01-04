@@ -1,0 +1,7 @@
+LXI H, 9030H
+
+MOV A, M
+
+ANI 10H
+
+HLT

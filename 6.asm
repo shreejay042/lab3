@@ -1,0 +1,3 @@
+MVI A,32H
+XRI 0FFH
+HLT
